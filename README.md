@@ -1,2 +1,2 @@
 # truman
-Little world... with little people... that you control... and get realistic data from 
+fake people... in a fake world... having fake lifes... with fake events... creating real data.
